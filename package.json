@@ -1,6 +1,6 @@
 {
-  "name": "data-generator",
-  "displayName": "data-generator",
+  "name": "dummy-data-generator",
+  "displayName": "dummy-data-generator",
   "description": "Generate dummy data",
   "version": "0.0.1",
   "engines": {
